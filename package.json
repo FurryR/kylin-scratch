@@ -1,0 +1,17 @@
+{
+  "name": "kylin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FurryR",
+  "license": "AGPL-3.0-only",
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "jszip": "^3.10.1",
+    "scratch-vm": "github:TurboWarp/scratch-vm#develop",
+    "uglify-js": "^3.18.0"
+  }
+}
